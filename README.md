@@ -8,7 +8,7 @@ cd taboo-server
 npm install 
 node server.js
 ```
-server support ```rooms```, ```rooms/squad```, ```rooms/squad/player```
+Server based on REST principles of ```/rooms```, ```/rooms/squad```, ```rooms/squad/player```
 
 # Frontend
 ```
